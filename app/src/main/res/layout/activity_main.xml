@@ -16,7 +16,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="красный"
-        android:textColor="#EF0505"
+        android:textColor="@color/красный"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -24,7 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="желтый"
-        android:textColor="#FFE500"
+        android:textColor="@color/желтый"
         tools:ignore="MissingConstraints" />
 
     <Button
@@ -32,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="зеленый"
-        android:textColor="#3EE104"
+        android:textColor="@color/зеленый"
         tools:ignore="MissingConstraints" />
 
 </LinearLayout>
