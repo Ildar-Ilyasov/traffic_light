@@ -8,6 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="зеленый">#03FD07</color>
-    <color name="желтый">#FFE500</color>
+    <color name="yellow">#FFE500</color>
     <color name="красный">#EF0505</color>
+    <color name="buttonyellow">#FFD500</color>
+    <color name="green">#2EFF00</color>
+    <color name="red">#FF0101</color>
 </resources>
